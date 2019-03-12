@@ -1,0 +1,242 @@
+.wrapper {	margin: -30px 0 0 0;
+}
+
+
+
+#sidebar-2 {	float: right;
+	width: 260px;
+	padding: 0 0px 0 0px;
+	padding-left: 0px;
+	margin: 14px 0 0 0;
+}
+
+.md { 	width: 260px;
+	float: left;
+	padding-bottom: 60px;
+	margin: 0;
+	padding: 0;
+	line-height: 18px;
+	font-size: 13px;
+}
+
+.md ul {	list-style: none;
+  	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	-webkit-padding-start: 40px;
+}
+
+.md li {    overflow:hidden;
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+
+.md li h2 {	padding: 0;
+	padding-left: 2px;
+	margin: 0;
+	padding-bottom: 12px;
+	border: none;
+
+	-webkit-margin-before: 0.83em;
+	-webkit-margin-after: 0.83em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+
+.md li h1, .md li h2, .md li h3 {	font: normal 24px/28px 'Myriad Pro', Arial, Helvetica, sans-serif;
+	color: #161616;
+	padding: 38px 0 16px 0;
+	border-bottom: 1px solid #E9E9E9;
+	letter-spacing: 0px;
+}
+
+.md li p { 	color: #8C8B8B;
+	font: normal 13px/19px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+	font-style: italic;
+	margin-bottom: -5px;
+
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+
+.md_title1 {
+	font: normal 24px/28px 'Myriad Pro', Arial, Helvetica, sans-serif;
+	color: #161616;
+	background: url(../images/title_news.png) left top no-repeat;
+	padding: 14px 0 15px 68px;
+	letter-spacing: -1px;
+	text-decoration: none;
+}
+
+.md_title1:hover {
+	color: #00a2d3;
+	background: url(../images/title_news-active.png) left top no-repeat;
+}
+
+.md_title2 {
+	font: normal 24px/28px 'Myriad Pro', Arial, Helvetica, sans-serif;
+	color: #161616;
+	background: url(../images/title_news1.png) left top no-repeat;
+	padding: 14px 0 15px 68px;
+	letter-spacing: -1px;
+	text-decoration: none;
+}
+
+.md_title2:hover {
+	color: #00a2d3;
+	background: url(../images/title_news1-active.png) left top no-repeat;
+}
+
+.md_title3 {
+	font: normal 24px/28px 'Myriad Pro', Arial, Helvetica, sans-serif;
+	color: #161616;
+	background: url(../images/title_news2.png) left top no-repeat;
+	padding: 14px 0 15px 68px;
+	letter-spacing: -1px;
+	text-decoration: none;
+}
+
+.md_title3:hover {
+	color: #00a2d3;
+	background: url(../images/title_news2-active.png) left top no-repeat;
+}
+
+.readon {
+	color:#00a2d3;
+	text-decoration:underline;
+	font:normal 13px/19px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background:url(../images/read-more-marker.gif) right 7px no-repeat;
+	padding-right:12px;
+}
+
+.readon:hover {
+	text-decoration:none;
+}
+
+.page_title {	margin: 0;
+	width: 100%;
+}
+
+.page_title h3 {
+	font: 36px/36px 'Myriad Pro', sans-serif;
+	color: #00a2d3;
+	padding: 0 0 16px 0;
+	margin-bottom: 24px;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+.sidebar_list {	margin: 0;
+	padding: 0;
+}
+
+.sidebar_list h3 {
+	font: 24px/28px 'Myriad Pro', sans-serif;
+	color: #161616;
+	margin: 10px 0 0 0;
+	padding: 5px;
+	border-bottom: 1px solid #E9E9E9;
+	letter-spacing: 0px;
+}
+
+.sidebar_list ul {
+	padding-top: 19px;
+	list-style: none;
+	margin: 0 0 0 -40px;
+}
+
+.sidebar_list li {
+	display: list-item;
+	text-align: -webkit-match-parent;
+	list-style: none;
+}
+
+.sidebar_list ul li a {
+	color: #8C8B8B;
+	font: 14px/17px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding: 4px 0 5px 32px;
+	overflow: hidden;
+	display: inline-block;
+	background: url(../images/marker.png) left -46px no-repeat;
+}
+
+.sidebar_list ul li a:hover {
+    color:#00a2d3;
+    background:url(../images/marker.png) left 5px no-repeat;
+}
+
+.certContent {
+	float: left;
+	width: 100%;
+	margin-top: -4px;
+	border-top: 1px solid #BDBDBD;
+	border-right: 1px solid #BDBDBD;
+	border-bottom: 1px solid #BDBDBD;
+	border-left: 1px solid #BDBDBD;
+	background: none repeat scroll 0 0 white;
+	border-style: solid;
+	box-shadow: 1px 1px 2px #C4C4C4;
+	padding: 0;
+}
+
+.certContent .cat {
+	background: none repeat scroll 0 0 white;
+	border-style: solid;
+	box-shadow: 1px 1px 2px #C4C4C4;
+	padding: 0;
+}
+
+.certContent .certContentBlock {
+	border-top: 0px solid #BDBDBD;
+	padding: 25px 2% 2%;
+	width: auto;
+	float: none;
+}
+
+.certContent .certContentBlock h2 {
+	font: 24px/28px 'Myriad Pro', sans-serif;
+	color: #161616;
+	margin: 10px 0 0 0;]
+	padding: 5px;
+	letter-spacing: 0px;
+}
+
+.certContent .certContentBlock p {
+	color: #161616;
+	font: normal 16px/19px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.thumb_wrapper .thumb {
+	margin: 0 !important;
+	padding: 10px;
+	max-width: 250px;
+	border: none;
+	float: left!important;
+}
+
+.thumb {	margin: 0 !important;
+	padding: 10px;
+	max-width: 250px;	border: 1px solid #DDD;
+}
+
+.border_wrapper {	margin-right: 10px;
+	border: 1px solid #B8B8B8;
+	float: left;
+	text-align: center;
+	width: auto;
+}
+
+.fr .thumb_wrapper {
+	background: url("../images/shadow_right.jpg") no-repeat scroll right bottom transparent;
+	margin: 0 10px 10px 30px !important;
+	padding-bottom: 10px;
+	float: right;
+	padding-right: 0;
+ 	width: auto;
+}
